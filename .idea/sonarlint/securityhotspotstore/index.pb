@@ -7,3 +7,5 @@ T
 $contracts/collateral-management.clar,e/b/ebd25a6b95c263439674497e11db99ec1b77b36b
 R
 "contracts/lender-verification.clar,a/3/a3e6679b26579ee0f809996b65c099376363647d
+H
+contracts/valuation.clar,6/c/6c769042554570c15dc5066f9ce5f33506092bf7
